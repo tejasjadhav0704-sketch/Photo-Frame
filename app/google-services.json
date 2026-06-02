@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701628679677",
+    "project_id": "photo-frame-30a1d",
+    "storage_bucket": "photo-frame-30a1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701628679677:android:5b4cc2a9c258d767540594",
+        "android_client_info": {
+          "package_name": "com.example.photo_frame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdgK81DitMjvwWLCk8AuFaJRDBjCC50w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
