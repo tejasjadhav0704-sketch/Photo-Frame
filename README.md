@@ -23,13 +23,12 @@ Android replied:
 
 ## Screenshots
 
-*Add your screenshots here*
-
-```html
 <p align="center">
-  <img src="app/Screenshots/Screenshot 2026-06-03 at 1.59.03 PM.png" width="300">
+  <img src="app/Screenshots/Screenshot1.png" width="300">
 </p>
-```
+<p align="center">
+  <img src="app/Screenshots/Screenshot2.png" width="300">
+</p>
 
 ---
 
