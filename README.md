@@ -38,6 +38,8 @@ Register Screen
 Main-Frames
 <p align="center">
   <img src="app/Screenshots/Screenshot4.png" width="300">
+  <img src="app/Screenshots/Screenshot5.png" width="300">
+  <img src="app/Screenshots/Screenshot6.png" width="300">
 </p>
 
 ---
