@@ -22,12 +22,21 @@ Android replied:
 ---
 
 ## Screenshots
-
+Welcome Screen
 <p align="center">
-  <img src="app/Screenshots/Screenshot1.png" width="300">
+  <img src="Screenshots/Screenshot1.png" width="300">
 </p>
+Login Screen
 <p align="center">
-  <img src="app/Screenshots/Screenshot2.png" width="300">
+  <img src="Screenshots/Screenshot2.png" width="300">
+</p>
+Register Screen
+<p align="center">
+  <img src="app/Screenshots/Screenshot3.png" width="300">
+</p>
+Main-Frames
+<p align="center">
+  <img src="app/Screenshots/Screenshot4.png" width="300">
 </p>
 
 ---
