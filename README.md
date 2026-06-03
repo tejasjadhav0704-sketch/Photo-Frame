@@ -27,7 +27,7 @@ Android replied:
 
 ```html
 <p align="center">
-  <img src="Screenshots/photo1.png" width="300">
+  <img src="app/Screenshots/Screenshot 2026-06-03 at 1.59.03 PM.png" width="300">
 </p>
 ```
 
